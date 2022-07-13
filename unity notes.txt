@@ -1,0 +1,18 @@
+set aspect ratio to 16:9
+
+vector 3 is the position of the object x,y,z
+
+file:///C:/Program%20Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Documentation/en/ScriptReference/Transform.html
+
+file:///C:/Program%20Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Documentation/en/ScriptReference/Transform.Translate.html
+
+Vector3.right = new Vector3(1, 0, 0)
+
+Vector3.up = new Vector3(0, 1, 0)
+
+Vector3.right * 5 *Time.deltaTime
+
+edit> project settings > input manager
+
+horizontalInput = Input.GetAxis("Horizontal")
+
